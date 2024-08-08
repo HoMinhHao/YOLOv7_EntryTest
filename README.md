@@ -1,4 +1,5 @@
 # YOLOv7_EntryTest
+Mở file train_multitask_yolov7.ipynb để huấn luyện mô hình
 Bước 1: Mount Google Colab với Drive
 ```
 import os
